@@ -78,7 +78,14 @@ pip install opencv-python numpy scikit-image torch torchvision
 # Run the script
 python fusion.py
 ```
-## Screenshots
+## 📸 Screenshots
+
+### Preprocessed Images
+![Preprocessed Image](https://raw.githubusercontent.com/vankri01/Medical-Image-Fusion/refs/heads/main/ct_final%20(1).png)  ![Preprocessed Image](https://raw.githubusercontent.com/vankri01/Medical-Image-Fusion/refs/heads/main/mri_final.png)
+#### CT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MRI
+### Fusion Output
+![Fusion Output](https://raw.githubusercontent.com/vankri01/Medical-Image-Fusion/refs/heads/main/fused_image.png)
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.

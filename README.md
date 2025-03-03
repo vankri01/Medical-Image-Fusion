@@ -87,6 +87,12 @@ python fusion.py
 ### Fusion Output
 ![Fusion Output](https://raw.githubusercontent.com/vankri01/Medical-Image-Fusion/refs/heads/main/fused_image.png)
 
+## Contributors
+- [Deepti Kushwaha](https://github.com/Deeptikushwaha)
+- [Chitranshi Joshi](https://github.com/chitranshi-j)
+
+
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
